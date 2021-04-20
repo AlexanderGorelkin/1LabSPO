@@ -1,0 +1,6 @@
+﻿  WindowsProjectPr.cpp
+C:\Users\Alexandr\Desktop\Практика_1\Прога\WindowsProjectPr\WindowsProjectPr.cpp(97,1): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Alexandr\Desktop\Практика_1\Прога\WindowsProjectPr\WindowsProjectPr.cpp(144,1): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Alexandr\Desktop\Практика_1\Прога\WindowsProjectPr\WindowsProjectPr.cpp(168,6): warning C4101: hdc: неиспользованная локальная переменная
+  LINK : не найден или не выполнена сборка C:\Users\Alexandr\Desktop\Практика_1\Прога\Debug\WindowsProjectPr.exe при последней инкрементной компоновке; выполняется полная компоновка
+  WindowsProjectPr.vcxproj -> C:\Users\Alexandr\Desktop\Практика_1\Прога\Debug\WindowsProjectPr.exe
